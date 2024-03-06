@@ -8,7 +8,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 This project was created as part of the **MITxPro Professional Certificate in Coding: Full Stack Development with MERN**. This project demonstrates a basic to-do app, which allows you to add and remove to-do items from a list.
 
