@@ -32,6 +32,9 @@ function App() {
   return (
     <div className="App">
       <h1>To-dos</h1>
+
+      <Form addTodo={addTodo} />
+
       <div className="todo-list">
         {todos.map((todo, index) => (
           <div key={index} className="todo">
@@ -47,8 +50,6 @@ function App() {
           </div>
         ))}
       </div>
-
-      <Form addTodo={addTodo} />
     </div>
   );
 }
